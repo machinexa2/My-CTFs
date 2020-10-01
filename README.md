@@ -1,13 +1,13 @@
 # My-CTF
 CTF designed to host and play on localhost. (some has been moved from localhost to online server)
 
-# Password protected CTF
+## Password protected CTF
 Some CTF which has been password protected by flag of online CTF. In such cases, use flag of online CTF to decrypt and get the source!
 
-# How to play this CTF
+## How to play this CTF
 * docker-compose up
 
-# How to end this CTF
+## How to end this CTF
 * docker system prune -af --volumes
 
 ## Rules
