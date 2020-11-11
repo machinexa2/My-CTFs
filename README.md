@@ -4,7 +4,7 @@ CTF playable on localhost.
 ## How to play this CTF
 * docker-compose up
 
-## How to end this CTF
+## How to end/reset this CTF
 * docker system prune -af --volumes
 
 ## Rules
