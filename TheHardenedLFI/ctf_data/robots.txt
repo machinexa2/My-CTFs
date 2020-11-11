@@ -1,2 +1,2 @@
 Disallow: RCE, XSS, SQLi, ALL oTHER BUGS
-Allow: LFI, Regex bypssing, PHP Wrappers
+Allow: LFI, Regex bypassing, PHP Wrappers

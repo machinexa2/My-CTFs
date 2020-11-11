@@ -1,7 +1,7 @@
 <br>
 
 <script>alert("XSS: You win level 1! YEAH")</script>
-<h1> vnm{n0w_th4ts </h1>
+<h1> machine{n0w_th4ts </h1>
 <h4> If you are reading this then lvl 1 is completed. Now read /etc/flag2 for level 2</h4>
 <h3> There's no need of pass parameter for lvl 2 but you can use it </h3>
 <!-- the flag looks half doesnt it -->
