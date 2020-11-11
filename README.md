@@ -18,4 +18,4 @@ Some CTF maybe password protected. In that case I will leave link of online chal
 * Looking at source code is full of spoilers, don't!
 
 ## Need Hint
-* **machineydv#3836** (Discord), Server: https://discord.gg/ejcswge (Discord) 
+* **machineydv#3836** (Discord), Server:  [Discord](https://discord.gg/ejcswge) 
