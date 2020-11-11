@@ -12,7 +12,7 @@ CTF playable on localhost.
 * Server is generally hosted as a docker container with address of 127.0.0.1:8080
 
 ## Note
-Some CTF which has been password protected by flag of online CTF. In such cases, use flag of online CTF to decrypt and get the source!
+Some CTF maybe password protected. In that case I will leave link of online challenge. 
 
 ## Warning
 * Looking at source code is full of spoilers, don't!
