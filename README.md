@@ -8,8 +8,8 @@ CTF playable on localhost.
 * docker system prune -af --volumes
 
 ## Rules
-* You can do anything in your localhost even bruteforce (for easter egg)
-* Server is generally hosted at /tmp or as docker container
+* Try everything you try on webapp, even bruteforce
+* Server is generally hosted at /tmp or as docker container with address of 127.0.0.1:8080
 
 ## Note
 Some CTF which has been password protected by flag of online CTF. In such cases, use flag of online CTF to decrypt and get the source!
