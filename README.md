@@ -1,5 +1,5 @@
 # My-CTF
-CFS playable on localhost.
+CTF playable on localhost.
 
 ## How to play this CTF
 * docker-compose up
