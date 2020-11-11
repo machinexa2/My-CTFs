@@ -9,7 +9,7 @@ CTF playable on localhost.
 
 ## Rules
 * Try everything you try on webapp, even bruteforce
-* Server is generally hosted at /tmp or as docker container with address of 127.0.0.1:8080
+* Server is generally hosted as a docker container with address of 127.0.0.1:8080
 
 ## Note
 Some CTF which has been password protected by flag of online CTF. In such cases, use flag of online CTF to decrypt and get the source!
