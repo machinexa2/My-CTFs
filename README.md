@@ -3,8 +3,6 @@ CTF playable on localhost.
 
 ## How to play this CTF
 * docker-compose up
-OR,
-* bash setup.sh
 
 ## How to end this CTF
 * docker system prune -af --volumes
