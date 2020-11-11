@@ -15,7 +15,7 @@ CTF playable on localhost.
 Some CTF which has been password protected by flag of online CTF. In such cases, use flag of online CTF to decrypt and get the source!
 
 ## Warning
-* Looking in ctf_data directory or setup.sh may provide spoiler. Dont look if you are 1337 hax0r.
+* Looking at source code is full of spoilers, don't!
 
 ## Need Hint
 * **machineydv#3836** (Discord), Server: https://discord.gg/ejcswge (Discord) 
